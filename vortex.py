@@ -2,7 +2,6 @@ import pygame
 import math
 import random
 from pygame.locals import *
-import time
 import sys
 
 
